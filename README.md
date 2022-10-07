@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Ahmed Ruda</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+
+<h4>About Me:<h4/>
+<p>I am a Software Engineer from Canada<p/>
+
+- 🔭 I’m currently studying at Conestoga College
 
 - 🌱 I’m currently learning **Assembly Lanugage and Web Development**
 
