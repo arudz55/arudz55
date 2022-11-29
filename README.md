@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Ruda</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+<h3 align="center">A passionate software engineering student from Waterloo, Ontario</h3>
 
 - 🌱 I’m currently learning **Assembly Lanugage and Web Development**
 
