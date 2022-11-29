@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Ruda</h1>
 <h3 align="center">A passionate software engineering student from Waterloo, Ontario</h3>
 
-- 🌱 I’m currently learning **Assembly Lanugage and Web Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/arudz55](https://github.com/arudz55)
 
 - 📫 How to reach me **aruda0421@gmail.com**
